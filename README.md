@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @whoisyersinia
-- 👀 I’m interested in Javascript, Typescript, C++, CSS frameworks, etc.
-- 🌱 I’m currently learning Javascript, CSS, HTML, Python.
-- 💞️ I’m looking to collaborate on anything.
+Did you find me using a O(n!) algorithim? 👀
+
+Hi, I’m @whoisyersinia, an aspiring web developer. I’m interested in Javascript, Typescript, C++, CSS frameworks, etc.
+I’m currently learning Javascript, CSS, HTML, Python. I am proficent at nothing yet. 
+I’m looking to collaborate on anything.
 
 
 <!---
