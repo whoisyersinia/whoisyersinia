@@ -1,6 +1,6 @@
 Did you find me using a O(n!) algorithim? 👀
 
-Hi, I’m @whoisyersinia, an aspiring web developer. I’m interested in Javascript, Typescript, C++, CSS frameworks, etc.
+Hi, I’m @whoisyersinia, currently at Level 2 NCEA, and an aspiring web developer. I’m interested in Javascript, Typescript, C++, CSS frameworks, etc.
 I’m currently learning Javascript, CSS, HTML, Python. 
 
 Thanks for reading!
