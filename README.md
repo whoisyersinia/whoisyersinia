@@ -15,12 +15,10 @@ I’m currently learning Javascript and Python.
 - ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 **🥇 Achievements:**
-- NCEA Level 1 Digital Technologies Excellence Endorsement
+- NCEA Level 1 + 2 Digital Technologies Excellence Endorsement
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whoisyersinia&theme=tokyonight)
 ![languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whoisyersinia&theme=tokyonight)
-
-![gif](https://github.com/whoisyersinia/whoisyersinia/blob/main/wotagei-baby-from-oshi-no-ko-v0-jt3fk2gvnxka1.gif)
 
 
 <!---
