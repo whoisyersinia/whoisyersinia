@@ -8,11 +8,12 @@ I’m currently learning Javascript and Python.
 **💻 Language Experience:**
 - ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 - Flask
-- SQL Alchemy
+- SQL
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - SASS 
 - ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- PHP
 
 **🥇 Achievements:**
 - NCEA Level 1 + 2 Digital Technologies Excellence Endorsement
