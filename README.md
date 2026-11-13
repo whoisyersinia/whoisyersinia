@@ -18,7 +18,7 @@ I’m currently learning Javascript and Python.
 **🥇 Achievements:**
 - NCEA Level 1 + 2 Digital Technologies Excellence Endorsement
 
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=whoisyersinia&theme=tokyonight)
+
 ![languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whoisyersinia&theme=tokyonight)
 
 
